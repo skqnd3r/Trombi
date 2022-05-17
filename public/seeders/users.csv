@@ -1,0 +1,53 @@
+login,rights,email,nom,prenom,phone,tags,service
+andria_c,super adm,andria_c@etna-alternance.net,Andriamihamina,Alexandre,,,BLU
+blain_t,super adm,blain_t@etna-alternance.net,Blain,Tanguy,,,BLU 
+amram_n,super adm,amram_n@etna-alternance.net,Amram,Nolan,,,BLU 
+meteil_l,super adm,meteil_l@etna-alternance.net,Meteillor,Lawrence,,,BLU 
+deborah.cristiani,super adm,deborah.cristiani@etna-learning.fr,Cristiani,Deborah,,,Pedagogique RH Office Management
+arnoul_l,adm,arnoul_l@etna-alternance.net,Arnould,Lutricia,,Ip Suivi Manager,Pedagogique
+belgue_s,emp,belgue_s@etna-alternance.net,Belguerma,Sabri,,Technique Assistant Alternant,Pedagogique
+carra_c,adm,cameron.carra@etna.io,Carra,Cameron,,Technique Ap,Pedagogique
+cros_b,adm,cros_a@etna-alternance.net,Cros,Arthur,,Technique Master C2w,Pedagogique
+daems_s,adm,sandra.daems@etna.io,Daems,Sandra,,Ip Master,Pedagogique
+dehili_m,adm,dehili_m@etna-alternance.net,Dehili,Melissa,,Suivi Ap,Pedagogique
+doumer_c,adm,clement.doumergue@etna.io,Doumergue,Clement,,Technique Master C2w,Pedagogique
+lokwa_j,adm,jennifer.lokwa@etna.io,Lokwa,Jennifer,,Suivi Ap2bachelor,Pedagogique
+lequer_r,adm,lequer_r@etna-alternance.net,Le Querec,Robin,,Technique Master,Pedagogique
+marais_j,adm,jeremie.marais@etna.io,Marais,Jeremie,,Technique Bachelor,Pedagogique
+moesan_c,adm,clement.moesan@etna.io,Moesan,Clement,,Suivi Master,Pedagogique
+pankie_m,adm,megane.pankiewicz@etna.io,Pankiewicz,Megane,,Ip Ap Bachelor,Pedagogique
+torreg_l,adm,torreg_l@etna-alternance.net,Torregrossa,Lisa,,Suivi Ap,Pedagogique
+tram_a,adm,tram_a@etna-alternance.net,Tram,Anthony,,Technique C2w,Pedagogique
+seneze_v,super adm,eneze_v@etna-alternance.net,Senezergues,Valerie,,Responsable,Administratif
+cheron_j,adm,jennifer.cheron@etna.io,Cheron,Jennifer,,Facturation,Administratif
+daouah_f,adm,fanida.daouah@etna.io,Daouah,Fanida,,Administration,Administratif
+mohame_a,adm,mohame_a@etna-alternance.net,Mohamed,Sophie,,Administration Facturation,Administratif
+moscou_c,adm,cedric.moscou@etna.io,Moscou,Cedric,,Administration,Administratif
+nkelez_e,adm,eliza.nkelezi@etna.io,Nkelezi,Eliza,,Facturation,Administratif
+prodho_m,adm,prodho_m@etna-alternance.net,Prod'Homme,Magalie,,Facturation Manager,Administratif
+deland_c,adm,colyne.delande@etna.io,Delande,Colyne,,,Relations Entreprise
+tony.pojer,adm,tony.pojer@etna-alternance.net,Pojer,Tony,,,Relations Entreprise
+silves_c,adm,cindy.silvestre@etna.io,Sylvestre,Cindy,,,Relations Entreprise
+delait_a,super adm,lola.delaitre@etna-learning.fr,Delaitre,Lola,,Responsable,Admissions
+genevi_a,adm,aurelie.genevieve@etna.io,Genevieve,Aurelie,,Admission,Admissions
+kemayo_k,adm,karen.kemayou@etna.io,Kemayou,Karen,,Com,Admissions
+mungal_a,adm,aurelie.mungalu@etna.io,Mungalu Mukamina,Aurelie,,Admission,Admissions
+maudui_t,super adm,maudui_t@etna-alternance.net,Mauduit,Thomas,,Responsable,BLU
+charpe_o,emp,charpe_o@etna-alternance.net,Charpentier,Oxana,,Asys,BLU
+courta_f,emp,courta_f@etna-alternance.net,Courtaux,Franck,,Asys,BLU
+demang_e,emp,demang_e@etna-alternance.net,Demange,Ella,,Dev,BLU
+ladeir_j,emp,ladeir_j@etna-alternance.net,Ladeira Ferreira,Jeremy,,Dev,BLU
+memain_f,emp,memain_f@etna-alternance.net,Memain,Flavien,,Dev,BLU
+tadros_j,emp,tadros_j@etna-alternance.net,Tadros,Justine,,Dev,BLU
+vandis_w,adm,vandis_w@etna-alternance.net,Vandista,William,,Asys Responsable,BLU
+vignan_q,emp,vignan_q@etna-alternance.net,Vignan,Quentin,,Devops,BLU
+hanrot_j,super adm,hanrot_j@etna-alternance.net,Hanrot,Julie,,Responsable,Studio
+driant_j,adm,driant_j@etna-learning.fr,Driant,Jeanne,,,Studio
+guilma_a,adm,alexandre.guilmain@etna.io,Guilmain,Alexandre,,,Studio
+cissok_d,emp,,Cissokho,Dambo,,Proprete,RH Office Management
+daime_a,adm,adeline.daime@etna.io,Daime,Adeline,,Office,RH Office Management
+drame_b,emp,,Drame,Bintou,,Proprete,RH Office Management
+felixm_d,emp,,Felix Martins,Daniela,,Proprete,RH Office Management
+gassam_g,emp,,Gassama,Goundoba,,Proprete,RH Office Management
+thap_l,emp,thap_l@etna-learning.fr,Thap,Linda,,Office,RH Office Management
+samir,super adm,samir@etna-alternance.net,Rinaz,Samir,,Direction Responsable Technique Le boss,Direction Relations Entreprise

@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #f1ecec;
+}
+
+.erreur{
+    margin-left: 135px;
+    color: rgb(182, 43, 43);
+}
+
+.connect {
+    background-color: rgba(207, 205, 205, 0.692);
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 40%;
+    border: 1px solid black;
+    outline: none;
+    display: block;
+    margin: 20px auto 20px auto;
+}
+
+img {
+    display: block;
+    width: 290px;
+    margin: 30px auto;
+}
+
+input {
+    border-radius: 5px;
+    padding: 10px 15px;
+    width: 50%;
+    border: 1px solid #D9D9D9;
+    outline: none;
+    display: block;
+    margin: 20px auto 20px auto;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    background: rgb(93,153,166);
+    width: 35%;
+    padding: 10px;
+    color: #FFFFFF;
+    margin-top: 25px;
+    box-shadow: 0 2px 10px -3px black;
+    display: block;
+    margin: 55px auto 10px auto;
+}
+
+a {
+    text-align: center;
+    margin-top: 30px;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.image_button
+{
+    background-image:url(../picture/moon.png);
+}
